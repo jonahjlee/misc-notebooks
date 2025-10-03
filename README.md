@@ -1,4 +1,4 @@
-# Jonah Lee's Misc Notebooks
+# Jonah Lee's Miscellaneous Notebooks
 
 I recently realized that I love using Jupyter notebooks - for assigments, work or random explorations.
 
